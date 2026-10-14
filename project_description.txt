@@ -1,0 +1,3 @@
+Project Description:
+
+This project is a responsive Personal Portfolio Website developed using HTML5 and CSS3. It introduces me, highlights my skills, and displays my projects in an organized and attractive layout. The website includes Home, About, Skills, Projects, and Contact sections. CSS Flexbox, styling, and media queries are used to make the website responsive on desktop and mobile devices. This project helped me improve my web development skills and understand responsive website design.
